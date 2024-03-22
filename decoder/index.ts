@@ -1,0 +1,1 @@
+export { decoder as Decoder } from "./decode"

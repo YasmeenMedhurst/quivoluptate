@@ -1,0 +1,25 @@
+{
+  "name": "quivoluptate",
+  "version": "1.0.0",
+  "description": "A package that provides common repetitive evm-based chains functionalities",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YasmeenMedhurst/quivoluptate.git"
+  },
+  "keywords": [
+    "eth",
+    "molestiae",
+    "ethers"
+  ],
+  "author": "ClementShanahan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YasmeenMedhurst/quivoluptate.git/issues"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "ts-node": "^10.9.1"
+  }
+}
